@@ -3,13 +3,14 @@
 - 🔭 I'm a French student at Epitech Nancy !
 - 🌱 I’m currently learning java and cpp
 - 👯 I’m looking for a job beside my study 
-- 🥅 2021 Goals: Having a better organization during my projects and Be better in Java development
+- 🥅 2022 Goals: Having a better organization during my projects and Be better in Java development
 
 ### Connect with me:
 
 [<img align="left" alt="TheoMrgr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Théo Maringer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="theomrgr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+You can contact me at theo.maringer@epitech.eu
 <br/>
 
 ### Languages and Tools:
@@ -33,4 +34,3 @@
 
 [twitter]: https://twitter.com/TheoMrgr
 [instagram]: https://instagram.com/theomrgr
-[linkedin]: https://www.linkedin.com/in/th%C3%A9o-maringer-1aa16b204
