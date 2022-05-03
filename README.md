@@ -1,9 +1,9 @@
 ### Hi there, I'm Théo - aka ByFish 👋
 
 - 🔭 I'm a French student at Epitech Nancy !
-- 🌱 I’m currently learning java and cpp
+- 🌱 I’m currently learning solidity and cpp
 - 👯 I’m looking for a job beside my study 
-- 🥅 2022 Goals: Having a better organization during my projects and Be better in Java development
+- 🥅 2022 Goals: Having a better organization during my projects and be better in Solidity development
 
 ### Connect with me:
 
