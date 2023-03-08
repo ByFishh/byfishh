@@ -1,17 +1,13 @@
 ### Hi there, I'm Théo - aka ByFish 👋
 
 - 🔭 I'm a French student at Epitech Nancy !
-- 🌱 I’m currently learning solidity and cpp
-- 👯 I’m looking for a job beside my study 
-- 🥅 2022 Goals: Having a better organization during my projects and be better in Solidity development
+- 🌱 I’m currently learning solidity and c++
+- 👯 I’m looking for a internship from april 2023 for 4 months
+- 🥅 2023 Goals: Having a better organization during my projects and be better in Solidity development
 
 ### Connect with me:
-
-[<img align="left" alt="TheoMrgr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="theomrgr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
 You can contact me at theo.maringer@epitech.eu
-<br/>
+
 
 ### Languages and Tools:
 
@@ -31,6 +27,3 @@ You can contact me at theo.maringer@epitech.eu
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=byfishh)](https://github.com/anuraghazra/github-readme-stats)
-
-[twitter]: https://twitter.com/TheoMrgr
-[instagram]: https://instagram.com/theomrgr
