@@ -27,3 +27,5 @@ You can contact me at theo.maringer@epitech.eu
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=byfishh)](https://github.com/anuraghazra/github-readme-stats)
+
+<code><img src="https://visitor-badge.glitch.me/badge?page_id=byfishh&style=flat-square"/></code>
